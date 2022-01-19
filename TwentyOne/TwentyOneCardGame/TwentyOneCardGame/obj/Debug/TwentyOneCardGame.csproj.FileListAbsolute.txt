@@ -1,0 +1,32 @@
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe.config
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.pdb
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.exe
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.pdb
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\Casino.dll
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\Casino.pdb
+C:\Users\Carly Lokare\source\repos\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CopyComplete
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe.config
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.pdb
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\Casino.dll
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\Casino.pdb
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CopyComplete
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.exe
+C:\Users\Administrator\Documents\AOL\TwentyOne_CardGame\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe.config
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\Casino.dll
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\Casino.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CopyComplete
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Coding-Projects\TwentyOne\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.pdb

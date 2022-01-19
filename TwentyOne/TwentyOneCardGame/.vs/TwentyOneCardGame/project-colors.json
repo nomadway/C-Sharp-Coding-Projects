@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45170461-d562-4492-9d8a-2c075fdb1bca": {
+      "ProjectGuid": "45170461-d562-4492-9d8a-2c075fdb1bca",
+      "DisplayName": "Casino",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "337886de-d3b2-4901-af71-6073e8500ec3": {
+      "ProjectGuid": "337886de-d3b2-4901-af71-6073e8500ec3",
+      "DisplayName": "TwentyOneCardGame",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
